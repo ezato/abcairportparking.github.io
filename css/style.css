@@ -14414,7 +14414,10 @@ textarea.form-control {
 }
 
 .custom-hover:hover {
-  background-color: #01d28e;
-  border-color: #01d28e;
+  background-color: #cce33ded;
+  border-color: #cce33ded;
   color: white; /* Adjust text color to contrast with the blue background */
+}
+.btn-small {
+  font-size: 0.875rem; /* Smaller text size */
 }
